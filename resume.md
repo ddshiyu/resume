@@ -35,41 +35,62 @@
 **项目概诉**：
 学习总是伴随的遗忘，代码学了不用就等于没学，整合了自己所学的知识写了一个博客，记录自己的学习笔记，生活感悟。包括前台页面、后台管理系统、后端都由本人编写。
 
-个人职责：
+**个人职责**：
 * 搭建三端的环境，编写三端的代码
 * 购买阿里云服务器，并把项目部署到服务器
 * 前台页面性能优化
 
 **技术栈**：
 
-前台页面
+前台页面：
+* vue + vuex + vue-router + axios + marked + sass + highlight.js
 
-vue + vuex + vue-router + axios + marked + sass + highlight.js
+后台管理系统：
+* vue + vuex + vue-router + axios +element-admin + echarts.js + tui-editor + sass
 
-后台管理系统
+后端：
+* express + mongoose + bcrypt + multer + jsonwebtoken + axios + connect-history-api-fallback
 
-vue + vuex + vue-router + axios +element-admin + echarts.js + tui-editor + sass
+**项目成果**：
 
-后端
-
-express + mongoose + bcrypt + multer + jsonwebtoken + axios + connect-history-api-fallback
-
+* 后台记录每天的访问量以及访问的城市，并用数据可视化表现出来
+* 后台管理系统权限管理，只用超级管理员才有编辑权限
+* 文章详情支持markdown并定制了一种主题
+* 前台支持github授权登录
+* 使用sass预编译自定义好要使用的类，后期几乎不写CSS样式
+* 图片资源存放七牛云，压缩并使用CDN加速，图片加载速度提升60%
 #### 知识图谱搜索系统
-**项目概诉**：该项目会根据用户的搜索关键词展示对应结果，以及对应的力导向图
-* 制作5G知识搜索以及数据可视化图谱，主要用的技术 vue全家桶+webpack，elementUI,d3.js以及
-git版本管理工具
-* 使用vue-cli2,配置跨域代理，以及开发环境和生产环境所需要的不同ip
+**项目概诉**：
+* 该项目会根据用户的搜索关键词展示对应结果，以及对应的力导向图
+
+**个人职责**：
+* 使用vue-cli3,配置跨域代理，以及开发环境和生产环境所需要的不同ip
 * 根据UI设计图还原搜索主页，搜索结果页，结果详情页，搜索联想
 * 使用d3.js数据可视化开发力导向图以及关系图谱
 * 开发上传上传配置文件和数据文件生成关系图谱的功能
-* 抽出elementUI的级联选择器源组件，更改相关功能，再重新引入
 
-### 实习经历
-***
-#### 2018.3-2018.6	深圳前海中智科技有限公司	Web 前端开发
-* 公司需要制作一个官网，因为页面都是以展示为主，所以与后台交互较少。
-* 主要用到的技术有 ui 框架 bootstrap，js 库 jquery，制作了有轮播图，滑动下拉菜单， 还有响应式布局
-* 使用nginx部署到服务器
+**技术栈**：
+* vue + vuex + vue-router + axios +elementUI + d3.js + sass
+
+**项目成果**：
+* 抽出elementUI的级联选择器源组件，更改相关功能，再重新引入
+* 封装请求拦截，如果接口报错可以弹出相应的错误
+#### 不同平台任务同步系统
+**项目概诉**：
+* 该项目用于A部门向B部同步不同的任务
+
+**个人职责**：
+* 根据UI设计图还原对应的页面
+* 公共组件的开发以及公共方法的提取
+* 过滤已经同步的任务以及任务根据时间排序
+
+**技术栈**：
+* vue + vuex + vue-router + axios +elementUI + sass
+
+**项目成果**：
+* 在里程碑切换过快时取消axios请求，防止接口还没有取消，导致数据错乱，
+* 不同部门可以实现任务互通，信息共享
+
 
 ### 自我评价
 ***
