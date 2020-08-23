@@ -1,9 +1,10 @@
 ### 前端工程师
 * 姓名：冯建东
-* 邮箱：ddshiyu@163.com | 深圳
+* 邮箱：ddshiyu@163.com
 * 求职意向：前端工程师
-* 电话：13030503752
+* 电话：13030503752（微信同号）
 * 毕业信息：2018 | 景德镇陶瓷大学（统招本科） | 计算机科学与技术
+* 期望城市：深圳
 * 个人网站：https://jdqiong.cn/
 ### 专业技能
 ***
@@ -30,7 +31,31 @@
 11. 熟悉nginx，会使用nginx反向代理部署网站到服务器
 ### 工作经历
 ***
-#### 2019.7-2020.2        中软国际	Web 前端开发
+#### 个人博客
+**项目概诉**：
+学习总是伴随的遗忘，代码学了不用就等于没学，整合了自己所学的知识写了一个博客，记录自己的学习笔记，生活感悟。包括前台页面、后台管理系统、后端都由本人编写。
+
+个人职责：
+* 搭建三端的环境，编写三端的代码
+* 购买阿里云服务器，并把项目部署到服务器
+* 前台页面性能优化
+
+**技术栈**：
+
+前台页面
+
+vue + vuex + vue-router + axios + marked + sass + highlight.js
+
+后台管理系统
+
+vue + vuex + vue-router + axios +element-admin + echarts.js + tui-editor + sass
+
+后端
+
+express + mongoose + bcrypt + multer + jsonwebtoken + axios + connect-history-api-fallback
+
+#### 知识图谱搜索系统
+**项目概诉**：该项目会根据用户的搜索关键词展示对应结果，以及对应的力导向图
 * 制作5G知识搜索以及数据可视化图谱，主要用的技术 vue全家桶+webpack，elementUI,d3.js以及
 git版本管理工具
 * 使用vue-cli2,配置跨域代理，以及开发环境和生产环境所需要的不同ip
