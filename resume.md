@@ -41,7 +41,7 @@
 * 过滤已经同步的任务以及任务根据时间排序
 
 **技术栈**：
-* vue + vuex + vue-router + axios +elementUI + sass
+* vue + vuex + vue-router + axios +ElementUI + sass
 
 **项目成果**：
 * 在任务切换过快时取消axios请求，防止接口还没有取消，导致数据错乱，
@@ -78,7 +78,7 @@
 * 开发上传上传配置文件和数据文件生成关系图谱的功能
 
 **技术栈**：
-* vue + vuex + vue-router + axios +elementUI + d3.js + sass
+* vue + vuex + vue-router + axios +ElementUI + d3.js + sass
 
 **项目成果**：
 * 抽出elementUI的级联选择器源组件，更改相关功能，再重新引入，实现对搜索结果的条件筛选
@@ -91,6 +91,7 @@
 * 学习总是伴随的遗忘，代码学了不用就等于没学，整合了自己所学的知识写了一个包括导航、博客、工具网站，记录自己的学习笔记，生活感悟。包括前台页面、后台管理系统、后端都由本人编写。详细文章请移步[这里](https://jdqiong.cn/blog/articleDetail?id=5f14661725a064250fd8a087)
 
 **个人职责**：
+
 * 搭建前台页面、后台管理系统、后端的环境，编写三端的代码
 * 购买阿里云服务器，使用nginx并把项目部署到服务器
 * 前台页面性能优化
@@ -102,7 +103,7 @@
 * vue + vuex + vue-router + axios + marked + sass + highlight.js
 
 后台管理系统：
-* vue + vuex + vue-router + axios +element-admin + echarts.js + tui-editor + sass
+* vue + vuex + vue-router + axios +Element-admin + echarts.js + tui-editor + sass
 
 后端：
 * express + mongoose + bcrypt + multer + jsonwebtoken + axios + connect-history-api-fallback
