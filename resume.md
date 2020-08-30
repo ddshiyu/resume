@@ -103,7 +103,7 @@
 * vue + vuex + vue-router + axios + marked + sass + highlight.js
 
 后台管理系统：
-* vue + vuex + vue-router + axios + element-admin + echarts.js + tui-editor + sass
+* vue + vuex + vue-router + axios + vue-element-admin + echarts.js + tui-editor + sass
 
 后端：
 * express + mongoose + bcrypt + multer + jsonwebtoken + axios + connect-history-api-fallback
