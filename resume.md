@@ -20,7 +20,7 @@
 
 8. 熟悉 vue 前端框架对组件封装有一定的封装能力
 
-9. 熟悉nodejs和express，以及mongodb，可以进行较复杂的后台开发
+9. 熟悉Node.js和express，以及mongodb，可以进行较复杂的后台开发
 
 10. 熟练掌握ElementUI和vue-element-admin UI框架快速开发
 
@@ -103,7 +103,7 @@
 * vue + vuex + vue-router + axios + marked + sass + highlight.js
 
 后台管理系统：
-* vue + vuex + vue-router + axios +Element-admin + echarts.js + tui-editor + sass
+* vue + vuex + vue-router + axios + element-admin + echarts.js + tui-editor + sass
 
 后端：
 * express + mongoose + bcrypt + multer + jsonwebtoken + axios + connect-history-api-fallback
